@@ -6,3 +6,4 @@
 * Then run ' bash MP3_to_wav.sh ' on terminal.
 * after completed, new folder on the same folder named as "wav"
 * output ".wav" files at inside "wav/" .
+---
